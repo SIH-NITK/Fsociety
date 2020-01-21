@@ -9,6 +9,6 @@ unzip Clipped_NDVI.zip
 ```
 
 ## Things to do
-[x] Understand NDVI file format
-[ ] Extract the area that is agricultural land
-[ ] Analyse the variation in variation in crops
+- [x] Understand NDVI file format
+- [ ] Extract the area that is agricultural land
+- [ ] Analyse the variation in variation in crops
