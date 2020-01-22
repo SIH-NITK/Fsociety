@@ -26,5 +26,5 @@ Lat: 24.4556, Lon: 72.8736
 
 ## Things to do
 - [x] Understand NDVI file format
-- [ ] Extract the area that is agricultural land
-- [ ] Analyse the variation in variation in crops
+- [x] Extract the area that is agricultural land
+- [x] Analyse the variation in variation in crops
